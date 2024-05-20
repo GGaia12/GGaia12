@@ -36,7 +36,8 @@
 
 
 <br>
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=GGaia12&&hide=PowerShellc,Batchfile&layout=compact&theme=dark](https://github-readme-stats.vercel.app/api/top-langs/?username=GGaia12&&=compact&theme=dark))
+
+
 
 
 
