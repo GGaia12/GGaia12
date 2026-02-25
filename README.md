@@ -1,48 +1,61 @@
-# Hello World! 
+<h1 align="center">👾 Gabriel Jung Gaia</h1>
+<h3 align="center">Cybersecurity Student | Software Engineering Explorer</h3>
 
-### Welcome to my page!
-<p>
-  I'm Gabriel Jung Gaia, 
-  <b>Brazil</b> 🇧🇷.
+<p align="center">
+🇧🇷 São Paulo, Brazil • 20 years old  
 </p>
 
-### I'm a Student, Developer and I'm 18!
+---
 
+## 🧠 About Me
 
-- 🐱‍💻 I’m studing CyberSecurity and Software Engineering
+🔐 Studying CyberSecurity  
+🧩 Focused on Backend & Secure Systems  
+⚙️ Passionate about vulnerability analysis and resilient architecture  
 
+> “Security isn’t a feature. It’s the foundation.”
 
-### Where to find me:
+---
 
-<a href="https://www.linkedin.com/in/gabriel-jung-gaia-a00861210/">
-  <code><img alt="My linkedin" width="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" /></code>
-</a>
+## 🚀 Tech Stack
 
-<a href="mailto:biel.gaia900@gmail.com">
-  <code><img alt="My e-mail" width="32" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" /></code>
-</a>
-<br>
+### 💻 Languages & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="45"/>
+  <img src="https://skillicons.dev/icons?i=java" height="45"/>
+  <img src="https://skillicons.dev/icons?i=php" height="45"/>
+  <img src="https://skillicons.dev/icons?i=js" height="45"/>
+</p>
 
-## My Development Stack 👻
+### 🌐 Web
+<p>
+  <img src="https://skillicons.dev/icons?i=html" height="45"/>
+  <img src="https://skillicons.dev/icons?i=css" height="45"/>
+</p>
 
-**Application and Data**
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySql"/></code>
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+</p>
 
+---
 
-<br>
+## 📊 GitHub Stats
 
+<p>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
 
+---
 
+## 🌎 Connect with me
 
-
-
-
-
-
-
+<p>
+  <a href="https://www.linkedin.com/in/gabriel-jung-gaia-a00861210/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="mailto:biel.gaia900@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+</p>
