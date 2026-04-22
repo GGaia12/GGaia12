@@ -43,7 +43,7 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img height="160em" src="[https://github-readme-stats.vercel.app/api?username=GGaia12&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=GGaia12&show_icons=true&theme=tokyonight&cache_seconds=1800)" />
+  <img height="160em" src="https://streak-stats.demolab.com/?user=GGaia12&theme=tokyonight" />
 </p>
 ---
 
